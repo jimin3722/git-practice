@@ -1,6 +1,10 @@
 team: Leopards
 
+<<<<<<< HEAD
 manager: Kenneth
+=======
+manager: Deborth
+>>>>>>> conflict-1
 
 members:
 - Linda
